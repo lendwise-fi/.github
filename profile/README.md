@@ -11,9 +11,13 @@
 
 </div>
 
-Lendwise tracks every supply and borrow market on **Aave V3**, **Morpho**, and
-**Compound V3**, standardizes every rate to one net APY (base ± fees ± rewards), and
-keeps 180 days of history — refreshed every 10 minutes.
+Lendwise does two things:
+
+1. **One standard** — every supply and borrow market on **Aave V3**, **Morpho**, and
+   **Compound V3**, standardized to one net APY (base ± fees ± rewards), with 180 days
+   of history — so you can actually compare them.
+2. **One allocation** — an optimizer that tells you how to deploy your capital across
+   those markets, matched to your risk profile and investment horizon.
 
 ## Repositories
 
