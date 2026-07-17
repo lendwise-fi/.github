@@ -5,15 +5,15 @@
 
 # Lendwise
 
-**The best DeFi lending & borrowing rates — 3 protocols, 8 chains, one place.**
+**Unified layer for DeFi lending. One standard.**
 
 [**Live App**](https://lendwise.fi) · [X / Twitter](https://x.com/Lendwisefi) · [Farcaster](https://farcaster.xyz/lendwise) · [hello@lendwise.fi](mailto:hello@lendwise.fi)
 
 </div>
 
 Lendwise tracks every supply and borrow market on **Aave V3**, **Morpho**, and
-**Compound V3**, normalizes everything to net APY (base ± fees ± rewards), and keeps
-180 days of history — refreshed every 10 minutes.
+**Compound V3**, standardizes every rate to one net APY (base ± fees ± rewards), and
+keeps 180 days of history — refreshed every 10 minutes.
 
 ## Repositories
 
