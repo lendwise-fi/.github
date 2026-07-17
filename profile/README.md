@@ -1,11 +1,9 @@
 <div align="center">
   <a href="https://lendwise.fi">
-    <img src="https://raw.githubusercontent.com/lendwise-fi/lendwise/main/public/logo.svg" alt="Lendwise logo" width="80" />
+    <img src="https://raw.githubusercontent.com/lendwise-fi/lendwise/main/public/logo.jpg" alt="Lendwise logo" width="80" />
   </a>
 
-# Lendwise
-
-**Unified layer for DeFi lending. One standard.**
+# Unified layer for DeFi lending. One standard.
 
 [**Live App**](https://lendwise.fi) · [X / Twitter](https://x.com/Lendwisefi) · [Farcaster](https://farcaster.xyz/lendwise) · [hello@lendwise.fi](mailto:hello@lendwise.fi)
 
