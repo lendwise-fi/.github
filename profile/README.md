@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://lendwise.fi">
-    <img src="https://raw.githubusercontent.com/lendwise-fi/lendwise/main/public/logo.jpg" alt="Lendwise logo" width="80" />
+    <img src="https://raw.githubusercontent.com/lendwise-fi/lendwise/main/public/logo.jpg" alt="Lendwise logo" width="380" />
   </a>
 
 # Unified layer for DeFi lending. One standard.
